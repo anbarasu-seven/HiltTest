@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.hilt.data
+package com.example.android.hilt.logger
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

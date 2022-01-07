@@ -14,10 +14,11 @@
  * limitations under the License.
  */
 
-package com.example.android.hilt.data
+package com.example.android.hilt.data.db
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
+import com.example.android.hilt.logger.Log
 
 /**
  * SQLite Database for storing the logs.
